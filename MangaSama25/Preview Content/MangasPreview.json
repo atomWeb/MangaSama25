@@ -1,0 +1,553 @@
+{
+    "metadata": {
+        "page": 1,
+        "total": 64833,
+        "per": 10
+    },
+    "items": [
+        {
+            "url": "\"https://myanimelist.net/manga/70399/Seishun_Buta_Yarou_Series\"",
+            "titleEnglish": "Rascal Does Not Dream",
+            "chapters": null,
+            "background": "Seishun Buta Yarou Series has been published in English as Rascal Does Not Dream series by Yen Press under the Yen On imprint since April 28, 2020.",
+            "demographics": [],
+            "authors": [
+                {
+                    "role": "Story",
+                    "firstName": "Hajime",
+                    "id": "E181A276-326E-4978-B74F-3F39E066CEAB",
+                    "lastName": "Kamoshida"
+                },
+                {
+                    "role": "Art",
+                    "firstName": "Keiji",
+                    "id": "AF393EBE-461A-4346-A92D-D6FA3A1251FF",
+                    "lastName": "Mizoguchi"
+                }
+            ],
+            "volumes": null,
+            "mainPicture": "\"https://cdn.myanimelist.net/images/manga/2/177502l.jpg\"",
+            "status": "currently_publishing",
+            "title": "Seishun Buta Yarou Series",
+            "themes": [
+                {
+                    "theme": "School",
+                    "id": "2ABA639D-480C-44FC-AE2C-FAA71C42DE7D"
+                }
+            ],
+            "sypnosis": "One day, in the library where Sakuta Azusagawa studies, he runs into an unexpected sight: a beautiful high school girl in a bunny outfit. She turns out to be Mai Sakurajima, a famous former actress and fellow student at Minegahara High. His surprise at seeing Mai wear such risqué attire in the library, however, is nothing compared to the shocking realization that he is the only one who can see her!\n\nReminded of an event from his past, Sakuta offers to help Mai discover the reason behind her invisibility. Despite their initially contentious relationship, the two quickly become close: Mai and Sakuta learn to appreciate each other, and their friendship turns into a budding romance. This further fuels their determination to solve Mai's dilemma.\n\nWhile the investigation progresses, Sakuta attributes Mai's situation to an urban legend known as Adolescence Syndrome: strange phenomena occurring in youth, unexplained by science and often dismissed as delusion. With few promising results, Mai's predicament worsens to the point where being unseen is the least of her worries. Can Sakuta and Mai solve the mystery of her Adolescence Syndrome before she disappears completely?\n\n[Written by MAL Rewrite]",
+            "titleJapanese": "青春ブタ野郎シリーズ",
+            "endDate": null,
+            "score": 8.61,
+            "id": 70399,
+            "genres": [
+                {
+                    "id": "4312867C-1359-494A-AC46-BADFD2E1D4CD",
+                    "genre": "Drama"
+                },
+                {
+                    "id": "D8E1E0A9-DDC2-4520-BED7-745DD8DAD076",
+                    "genre": "Romance"
+                },
+                {
+                    "id": "AE80120B-6659-4C0E-AEB2-227EC25EC4AF",
+                    "genre": "Supernatural"
+                }
+            ],
+            "startDate": "2014-04-10T00:00:00Z"
+        },
+        {
+            "url": "\"https://myanimelist.net/manga/126287/Sousou_no_Frieren\"",
+            "titleEnglish": "Frieren: Beyond Journey's End",
+            "background": "Sousou no Frieren has been published in English as Frieren: Beyond Journey's End by VIZ Media under the Shonen Sunday imprint since November 9, 2021. The series has also been simulpub through VIZ Manga. The series won the New Work Prize at the 25th Tezuka Osamu Cultural Prize awards in 2021.",
+            "demographics": [
+                {
+                    "demographic": "Shounen",
+                    "id": "5E05BBF1-A72E-4231-9487-71CFE508F9F9"
+                }
+            ],
+            "chapters": null,
+            "themes": [],
+            "authors": [
+                {
+                    "firstName": "Kanehito",
+                    "role": "Story",
+                    "id": "31AE9B69-F2F2-4F69-AD73-541F31BAB203",
+                    "lastName": "Yamada"
+                },
+                {
+                    "firstName": "Tsukasa",
+                    "role": "Art",
+                    "id": "85C9D800-966D-43E9-8C34-B7E34E1F7AC9",
+                    "lastName": "Abe"
+                }
+            ],
+            "mainPicture": "\"https://cdn.myanimelist.net/images/manga/3/232121l.jpg\"",
+            "volumes": null,
+            "title": "Sousou no Frieren",
+            "status": "currently_publishing",
+            "sypnosis": "The demon king has been defeated, and the victorious hero party returns home before disbanding. The four—mage Frieren, hero Himmel, priest Heiter, and warrior Eisen—reminisce about their decade-long journey as the moment to bid each other farewell arrives. But the passing of time is different for elves, thus Frieren witnesses her companions slowly pass away one by one.\n\nBefore his death, Heiter manages to foist a young human apprentice called Fern onto Frieren. Driven by the elf's passion for collecting a myriad of magic spells, the pair embarks on a seemingly aimless journey, revisiting the places that the heroes of yore had visited. Along their travels, Frieren slowly confronts her regrets of missed opportunities to form deeper bonds with her now-deceased comrades.\n\n[Written by MAL Rewrite]",
+            "endDate": null,
+            "titleJapanese": "葬送のフリーレン",
+            "score": 8.61,
+            "id": 126287,
+            "genres": [
+                {
+                    "genre": "Adventure",
+                    "id": "BE70E289-D414-46A9-8F15-928EAFBC5A32"
+                },
+                {
+                    "genre": "Award Winning",
+                    "id": "4C13067F-96FF-4F14-A1C0-B33215F24E0B"
+                },
+                {
+                    "genre": "Drama",
+                    "id": "4312867C-1359-494A-AC46-BADFD2E1D4CD"
+                },
+                {
+                    "genre": "Fantasy",
+                    "id": "B3E8D4B2-7EE4-49CD-8DB0-9897619B3F62"
+                }
+            ],
+            "startDate": "2020-04-28T00:00:00Z"
+        },
+        {
+            "url": "\"https://myanimelist.net/manga/1325/Hi_no_Tori_1967\"",
+            "titleEnglish": "Phoenix",
+            "chapters": 19,
+            "background": "Hi no Tori was published over the course of 21 years from 1967 to 1988, but was left incomplete due to Tezuka's death in 1989. The first seven chapters were serialized by COM magazine between 1967 to 1971; the remaining chapters were published by Manga Shounen and Yasei Jidai. Hi no Tori was published in English as Phoenix in 11 volumes by VIZ Media under the VIZ Signature imprint from March 12, 2003 to September 18, 2007. Previous to this, it had had a brief run in the educational publication Mangajin, from May to July, 1992 (issues #17 - #19). A live-action film following the Dawn storyline directed by Kon Ichikawa was released on August 12, 1978 in Japan and later on in March 30, 1979 in the United States.",
+            "demographics": [
+                {
+                    "id": "5E05BBF1-A72E-4231-9487-71CFE508F9F9",
+                    "demographic": "Shounen"
+                }
+            ],
+            "authors": [
+                {
+                    "firstName": "Osamu",
+                    "id": "3F103A1E-C929-4572-B5C7-0404412C4B57",
+                    "role": "Story",
+                    "lastName": "Tezuka"
+                }
+            ],
+            "volumes": 16,
+            "mainPicture": "\"https://cdn.myanimelist.net/images/manga/3/159419l.jpg\"",
+            "status": "finished",
+            "title": "Hi no Tori (1967)",
+            "themes": [
+                {
+                    "id": "3CF0EDA7-5856-40F7-A0CF-EC676B4A842C",
+                    "theme": "Historical"
+                },
+                {
+                    "id": "4394C99F-615B-494A-929E-356A342A95B8",
+                    "theme": "Psychological"
+                },
+                {
+                    "id": "16E7AE46-B906-4AF9-BDEB-C434F5247F2D",
+                    "theme": "Space"
+                }
+            ],
+            "sypnosis": "From time immemorial to the age of space colonization, there is one legend that has stayed unchanged in every history book—the tale of the immortal bird Phoenix. A being whose blood is said to grant eternal life or wisdom, the radiant figure ensures the continuation of sentient life in the universe as it oversees human civilizations and their development.\n\nYet, mankind remains a slave to its habits; from happiness and sorrow, to wrath and love, a myriad of emotions continue to play an integral part of human life. Simultaneously, time and time again, certain beliefs and agendas persist over the centuries to disturb the fragile equilibrium of the world's preordained nature and principles. It appears that fate, with its dynamic variables, can manifest itself in many ways—and oftentimes exhibits a bizarre sense of humor.\n\n[Written by MAL Rewrite]\n\nNote: This is an incomplete series due to Tezuka's death.",
+            "endDate": "1988-02-01T00:00:00Z",
+            "titleJapanese": "火の鳥",
+            "score": 8.6,
+            "id": 1325,
+            "genres": [
+                {
+                    "genre": "Drama",
+                    "id": "4312867C-1359-494A-AC46-BADFD2E1D4CD"
+                },
+                {
+                    "genre": "Fantasy",
+                    "id": "B3E8D4B2-7EE4-49CD-8DB0-9897619B3F62"
+                },
+                {
+                    "genre": "Romance",
+                    "id": "D8E1E0A9-DDC2-4520-BED7-745DD8DAD076"
+                },
+                {
+                    "genre": "Sci-Fi",
+                    "id": "2DEDC015-82DA-4EF4-B983-F0F58C8F689E"
+                },
+                {
+                    "genre": "Supernatural",
+                    "id": "AE80120B-6659-4C0E-AEB2-227EC25EC4AF"
+                }
+            ],
+            "startDate": "1966-12-20T00:00:00Z"
+        },
+        {
+            "url": "\"https://myanimelist.net/manga/102256/Ao_Ashi\"",
+            "titleEnglish": null,
+            "background": null,
+            "chapters": null,
+            "demographics": [
+                {
+                    "demographic": "Seinen",
+                    "id": "CE425E7E-C7CD-42DB-ADE3-1AB9AD16386D"
+                }
+            ],
+            "authors": [
+                {
+                    "firstName": "Yuugo",
+                    "id": "70BC1016-CC73-4782-8857-D6EF85C219A4",
+                    "role": "Story & Art",
+                    "lastName": "Kobayashi"
+                },
+                {
+                    "firstName": "Naohiko",
+                    "id": "164C6798-7D3A-41AA-8251-CF26F78A7096",
+                    "role": "Story",
+                    "lastName": "Ueno"
+                }
+            ],
+            "themes": [
+                {
+                    "id": "5337B561-472F-46B2-A2CD-7FD251A74150",
+                    "theme": "Team Sports"
+                }
+            ],
+            "mainPicture": "\"https://cdn.myanimelist.net/images/manga/1/185325l.jpg\"",
+            "status": "currently_publishing",
+            "title": "Ao Ashi",
+            "volumes": null,
+            "sypnosis": "Ashito Aoi, a third year middle school student from Ehime, meets Tatsuya Fukuda, a \"J Youth League\" coach. Even though he's still rough around the edges, Ashito has such amazing potential that he gets invited by coach Fukuda to participate in his team's try-outs in Tokyo. The story of the boy who will revolutionize football in Japan begins to unfold.\n\n(Source: Ao Ashi Wiki)",
+            "titleJapanese": "アオアシ",
+            "endDate": null,
+            "score": 8.6,
+            "id": 102256,
+            "genres": [
+                {
+                    "id": "4C13067F-96FF-4F14-A1C0-B33215F24E0B",
+                    "genre": "Award Winning"
+                },
+                {
+                    "id": "914A2BD5-5A1F-4D6F-9EA5-A839D5A8176B",
+                    "genre": "Sports"
+                }
+            ],
+            "startDate": "2015-01-05T00:00:00Z"
+        },
+        {
+            "url": "\"https://myanimelist.net/manga/108177/Monogatari_Series__Monster_Season\"",
+            "titleEnglish": null,
+            "background": null,
+            "chapters": null,
+            "demographics": [],
+            "authors": [
+                {
+                    "role": "Story",
+                    "firstName": "ISIN",
+                    "id": "4028EFA8-A17B-456A-AF43-E4655BF285BE",
+                    "lastName": "NISIO"
+                },
+                {
+                    "role": "Art",
+                    "firstName": "",
+                    "id": "186A7329-B1FD-45E4-BF9F-1398F98D0A76",
+                    "lastName": "VOFAN"
+                }
+            ],
+            "volumes": 6,
+            "mainPicture": "\"https://cdn.myanimelist.net/images/manga/1/198051l.jpg\"",
+            "status": "finished",
+            "title": "Monogatari Series: Monster Season",
+            "themes": [
+                {
+                    "id": "41530BB5-C3DF-4A28-A0EC-7660BA6833F1",
+                    "theme": "Vampire"
+                }
+            ],
+            "sypnosis": "\"It's chic to go saving a girl who has nothing to do with you every once in a while.\" Female students from Naoetsu High School have gone missing one after the other. When the mummified bodies of the girls are discovered, there's a very distinctive marking left on the napes of their necks...? Koyomi Araragi, now a first year university student, goes on the move to track down the culprit!\n\n(Source: Kodansha, Bakemonogatari Wikia)",
+            "endDate": "2021-08-19T00:00:00Z",
+            "titleJapanese": "〈物語〉シリーズ モンスターシーズン",
+            "score": 8.6,
+            "id": 108177,
+            "genres": [
+                {
+                    "id": "F974BCB6-B002-44A6-A224-90D1E50595A2",
+                    "genre": "Comedy"
+                },
+                {
+                    "id": "97C8609D-856C-419E-A4ED-E13A5C292663",
+                    "genre": "Mystery"
+                },
+                {
+                    "id": "AE80120B-6659-4C0E-AEB2-227EC25EC4AF",
+                    "genre": "Supernatural"
+                }
+            ],
+            "startDate": "2017-07-20T00:00:00Z"
+        },
+        {
+            "url": "\"https://myanimelist.net/manga/139629/JoJo_no_Kimyou_na_Bouken_Part_9__The_JoJoLands\"",
+            "titleEnglish": "JoJo's Bizarre Adventure Part 9: The JoJoLands",
+            "background": null,
+            "demographics": [
+                {
+                    "demographic": "Seinen",
+                    "id": "CE425E7E-C7CD-42DB-ADE3-1AB9AD16386D"
+                }
+            ],
+            "chapters": null,
+            "themes": [],
+            "authors": [
+                {
+                    "role": "Story & Art",
+                    "firstName": "Hirohiko",
+                    "id": "30B3A8B4-7A8D-4913-8370-28975F785354",
+                    "lastName": "Araki"
+                }
+            ],
+            "mainPicture": "\"https://cdn.myanimelist.net/images/manga/1/276920l.jpg\"",
+            "status": "currently_publishing",
+            "volumes": null,
+            "title": "JoJo no Kimyou na Bouken Part 9: The JoJoLands",
+            "sypnosis": "O'ahu, present day. Dua Lipa is the trending musician, and COVID is still a major concern. On this island lives a 15-year-old boy named Jodio Joestar. Living with his brother and mother, he acts as a dealer for certain illegal substances. One day, his employer comes and shows him an excellent find: a Japanese person has landed in Hawaii with a diamond worth over six million dollars. Normally it would be impossible to steal, but for someone with a stand...\n\nThis is a story of a young boy and his quest to become rich.\n\n(Source: MangaDex)",
+            "endDate": null,
+            "titleJapanese": "ジョジョの奇妙な冒険 Part9 The JOJOLands",
+            "score": 8.6,
+            "id": 139629,
+            "genres": [
+                {
+                    "id": "72C8E862-334F-4F00-B8EC-E1E4125BB7CD",
+                    "genre": "Action"
+                },
+                {
+                    "id": "BE70E289-D414-46A9-8F15-928EAFBC5A32",
+                    "genre": "Adventure"
+                },
+                {
+                    "id": "AE80120B-6659-4C0E-AEB2-227EC25EC4AF",
+                    "genre": "Supernatural"
+                }
+            ],
+            "startDate": "2023-02-17T00:00:00Z"
+        },
+        {
+            "url": "\"https://myanimelist.net/manga/140765/Tian_Guan_Ci_Fu\"",
+            "titleEnglish": "Heaven Official's Blessing",
+            "background": "Tian Guan Ci Fu is an adaptation of Mo Xiang Tong Xiu's web novel series of the same title. It is originally a webtoon series which has been officially published in book format by CITIC Press Group (中信出版社) since December 2021. The series has been published digitally in English as Heaven Official's Blessing by Bilibili Comics.",
+            "demographics": [],
+            "chapters": null,
+            "authors": [
+                {
+                    "lastName": "Mo Xiang Tong Xiu",
+                    "id": "4923DFAD-024D-4935-A2B2-69E9D4C0CCCE",
+                    "firstName": "",
+                    "role": "Story"
+                },
+                {
+                    "lastName": "STARember",
+                    "id": "FDD84F4D-F8FD-447C-AB6E-4F16A144F5EA",
+                    "firstName": "",
+                    "role": "Art"
+                }
+            ],
+            "volumes": null,
+            "themes": [
+                {
+                    "theme": "Historical",
+                    "id": "3CF0EDA7-5856-40F7-A0CF-EC676B4A842C"
+                }
+            ],
+            "status": "currently_publishing",
+            "title": "Tian Guan Ci Fu",
+            "mainPicture": "\"https://cdn.myanimelist.net/images/manga/2/258222l.jpg\"",
+            "sypnosis": "800 years ago, Xie Lian was a pure-blooded and noble Crown Prince, a well-regarded child of Heaven with unlimited potential. But who knew that, after he ascended and became a god with tens of thousands of worshippers, his fate would take such a sharp downhill turn? He was demoted again and again, and fell to rock bottom.\n\n800 years later, Xie Lian ascended again, but this time, without worshippers and without incense. One day, after returning from collecting scraps, he took a mysterious young man home. And this young man was the Ghost King that made others pale in fear whenever discussed—Hua Cheng.\n\n(Source: Bilibili Comics)",
+            "endDate": null,
+            "titleJapanese": "天官赐福",
+            "score": 8.6,
+            "id": 140765,
+            "genres": [
+                {
+                    "genre": "Action",
+                    "id": "72C8E862-334F-4F00-B8EC-E1E4125BB7CD"
+                },
+                {
+                    "genre": "Adventure",
+                    "id": "BE70E289-D414-46A9-8F15-928EAFBC5A32"
+                },
+                {
+                    "genre": "Boys Love",
+                    "id": "688F40FE-655B-46E4-A21A-E256BCA18796"
+                },
+                {
+                    "genre": "Drama",
+                    "id": "4312867C-1359-494A-AC46-BADFD2E1D4CD"
+                },
+                {
+                    "genre": "Supernatural",
+                    "id": "AE80120B-6659-4C0E-AEB2-227EC25EC4AF"
+                }
+            ],
+            "startDate": "2019-10-19T00:00:00Z"
+        },
+        {
+            "url": "\"https://myanimelist.net/manga/144267/Kaoru_Hana_wa_Rin_to_Saku\"",
+            "titleEnglish": "The Fragrant Flower Blooms with Dignity",
+            "chapters": null,
+            "demographics": [],
+            "background": "Kaoru Hana wa Rin to Saku has been published digitally as an English simulpub as The Fragrant Flower Blooms with Dignity through K Manga.",
+            "authors": [
+                {
+                    "lastName": "Mikami",
+                    "id": "57BF29E4-E145-41B3-871E-0C3E0F0FCB81",
+                    "role": "Story & Art",
+                    "firstName": "Saka"
+                }
+            ],
+            "themes": [
+                {
+                    "id": "2ABA639D-480C-44FC-AE2C-FAA71C42DE7D",
+                    "theme": "School"
+                }
+            ],
+            "volumes": null,
+            "mainPicture": "\"https://cdn.myanimelist.net/images/manga/5/256607l.jpg\"",
+            "title": "Kaoru Hana wa Rin to Saku",
+            "status": "currently_publishing",
+            "sypnosis": "Despite being adjacent to one another, Chidori Public High School and the all-girls Kikyo Private Academy seem to exist in two different worlds. While the latter boasts an immaculate reputation and favors students from wealthy backgrounds, the former is a nest for dim-witted delinquents. Everyone at Kikyo harbors a deep hatred for their Chidori neighbors.\n\nSixteen-year-old Rintarou Tsumugi is a student at Chidori whose intimidating face leads people to avoid him. Rintarou pays no mind to this, as he is content with his group of friends. However, there is something he has not told them yet: sometimes, he helps out at his family's cake shop.\n\nOne day at work, Rintarou sees a customer at a table, but she runs off before he can talk to her. The next day, he receives an apology from the girl, Kaoruko Waguri, who explains that she did not run away because of his appearance and that she believes Rintarou is a kind-hearted person. Although he is not used to Kaoruko's bright personality, Rintarou looks forward to forming a friendship with her. There is just one obstacle that stands in his way: Kaoruko is a Kikyo student!\n\n[Written by MAL Rewrite]",
+            "endDate": null,
+            "titleJapanese": "薫る花は凛と咲く",
+            "score": 8.6,
+            "id": 144267,
+            "genres": [
+                {
+                    "id": "4312867C-1359-494A-AC46-BADFD2E1D4CD",
+                    "genre": "Drama"
+                },
+                {
+                    "id": "D8E1E0A9-DDC2-4520-BED7-745DD8DAD076",
+                    "genre": "Romance"
+                }
+            ],
+            "startDate": "2021-10-21T00:00:00Z"
+        },
+        {
+            "url": "\"https://myanimelist.net/manga/3083/Suzumiya_Haruhi_Series\"",
+            "titleEnglish": null,
+            "background": "Suzumiya Haruhi Series placed 1st on the 2005 Kono Light Novel ga Sugoi! ranking under Best Light Novel category. As of 2011, it has sold over 16.5 million copies. The novel series has been published in English by Yen Press since April 1, 2009 and in Spanish by Editorial Ivrea since April 2010.",
+            "demographics": [],
+            "chapters": null,
+            "themes": [
+                {
+                    "id": "2ABA639D-480C-44FC-AE2C-FAA71C42DE7D",
+                    "theme": "School"
+                }
+            ],
+            "volumes": null,
+            "mainPicture": "\"https://cdn.myanimelist.net/images/manga/1/186142l.jpg\"",
+            "status": "currently_publishing",
+            "authors": [
+                {
+                    "lastName": "Tanigawa",
+                    "id": "5B522BA4-1596-4377-8B06-94040CE069F6",
+                    "role": "Story",
+                    "firstName": "Nagaru"
+                },
+                {
+                    "lastName": "Itou",
+                    "id": "6219995E-DF75-4D05-995F-E54B6CDD2E63",
+                    "role": "Art",
+                    "firstName": "Noizi"
+                }
+            ],
+            "title": "Suzumiya Haruhi Series",
+            "sypnosis": "As the students of Class 1-5 introduce themselves at the beginning of their high school careers, the cynical but otherwise fairly ordinary boy known as Kyon sits down, having just finished his piece. However, when the girl sitting behind him stands up to give her speech, the words she utters dumbfound the entire class. Proclaiming that she has no interest in ordinary humans and is in search of the supernatural, Haruhi Suzumiya makes her unforgettable debut.\n\nDoubting Haruhi's sincerity, Kyon lets his curiosity get the better of him and attempts to befriend her in spite of his classmates' warnings. Unfortunately, as the eccentric girl slowly opens up to him, Kyon realizes she is dead serious. Moreover, a conversation between the two sparks a dangerous idea in Haruhi's mind: since she is bored with the mundanity of the school's clubs, she should just create her own. With this, the SOS Brigade is born, and Kyon is quickly dragged into a life of absurdity.\n\nTaking over the Literary Club's room, Haruhi soon enlists three new members into her organization: the stoic Yuki Nagato, the timid Mikuru Asahina, and the supposedly mysterious transfer student Itsuki Koizumi. Having thrown together this group of students, Haruhi drags the squad around on adventures in search of the exciting and supernatural, much to Kyon's chagrin. However, he soon discovers that there is more to the new recruits than meets the eye, and that which Haruhi wishes for may be much closer than she realizes...\n\n[Written by MAL Rewrite]",
+            "titleJapanese": "涼宮ハルヒシリーズ",
+            "endDate": null,
+            "score": 8.59,
+            "id": 3083,
+            "genres": [
+                {
+                    "id": "F974BCB6-B002-44A6-A224-90D1E50595A2",
+                    "genre": "Comedy"
+                },
+                {
+                    "id": "4312867C-1359-494A-AC46-BADFD2E1D4CD",
+                    "genre": "Drama"
+                },
+                {
+                    "id": "2DEDC015-82DA-4EF4-B983-F0F58C8F689E",
+                    "genre": "Sci-Fi"
+                },
+                {
+                    "id": "AE80120B-6659-4C0E-AEB2-227EC25EC4AF",
+                    "genre": "Supernatural"
+                }
+            ],
+            "startDate": "2003-06-06T00:00:00Z"
+        },
+        {
+            "url": "\"https://myanimelist.net/manga/6978/Ginga_Eiyuu_Densetsu\"",
+            "titleEnglish": "Legend of the Galactic Heroes",
+            "background": "In 1988, Ginga Eiyuu Densetsu won the Seiun Award for Best Novel of the Year. The series has been published in English as Legend of the Galactic Heroes by VIZ Media under the Haikasoru imprint since March 8, 2016.",
+            "chapters": 94,
+            "demographics": [],
+            "authors": [
+                {
+                    "id": "8DF13F26-3A15-43E0-9CD7-9DEFB007357E",
+                    "firstName": "Yoshiki",
+                    "role": "Story",
+                    "lastName": "Tanaka"
+                },
+                {
+                    "id": "243306CD-0454-41C6-80BA-F482A6263415",
+                    "firstName": "Naoyuki",
+                    "role": "Art",
+                    "lastName": "Katou"
+                },
+                {
+                    "id": "EA473C93-FA7C-4EC2-AFC7-35B4502E3195",
+                    "firstName": "Yukihisa",
+                    "role": "Art",
+                    "lastName": "Kamoshita"
+                }
+            ],
+            "volumes": 10,
+            "mainPicture": "\"https://cdn.myanimelist.net/images/manga/5/155231l.jpg\"",
+            "status": "finished",
+            "title": "Ginga Eiyuu Densetsu",
+            "themes": [
+                {
+                    "id": "840867E7-6C60-49CE-8C47-A99AA71A2113",
+                    "theme": "Adult Cast"
+                },
+                {
+                    "id": "AD119CBB-2CCE-42FE-BD89-32D42C46462F",
+                    "theme": "Military"
+                },
+                {
+                    "id": "16E7AE46-B906-4AF9-BDEB-C434F5247F2D",
+                    "theme": "Space"
+                }
+            ],
+            "sypnosis": "In the far future, two young military leaders rise above their peers. The invincible genius Reinhard von Lohengramm is matched only by the unbeatable magician Yang Wen-li; though the two share a profound respect for each other, they meet on the battlefield not as comrades but as bitter adversaries. Commanding thousands of warships and millions of soldiers, they lead giant space fleets into battle on behalf of the two interstellar states that have wrested for control of the Milky Way for over a century and a half. \n\nThe Galactic Empire, an absolute monarchy ruled by Kaiser Friedrich von Goldenbaum IV and an entrenched nobility, seeks to suppress the rebels daring to oppose the inviolable crown. The Free Planets Alliance, a representative democracy led by a corrupt High Council, degenerates as its elected leaders⁠ use war and conflict as a way to win popular support. Reinhard is a minor noble who became a High Admiral through his strategic brilliance and his sister's position as the favored concubine of the Kaiser, while Yang is an avid historian and reluctant commodore hailed as a hero despite only using his tactical prowess to navigate around his leaders' incompetence. On opposite sides of the galaxy, the two men have wildly different visions for the future: Reinhard dreams of uniting mankind under his iron fist, while Yang wants only to carve a path to lasting peace. As the war rages on, Reinhard and Yang each strive for their ideals and secure their place among the stars as the leaders of a new era of galactic heroes.\n\n[Written by MAL Rewrite]",
+            "endDate": "1987-11-01T00:00:00Z",
+            "titleJapanese": "銀河英雄伝説",
+            "score": 8.59,
+            "id": 6978,
+            "genres": [
+                {
+                    "id": "72C8E862-334F-4F00-B8EC-E1E4125BB7CD",
+                    "genre": "Action"
+                },
+                {
+                    "id": "BE70E289-D414-46A9-8F15-928EAFBC5A32",
+                    "genre": "Adventure"
+                },
+                {
+                    "id": "4312867C-1359-494A-AC46-BADFD2E1D4CD",
+                    "genre": "Drama"
+                },
+                {
+                    "id": "2DEDC015-82DA-4EF4-B983-F0F58C8F689E",
+                    "genre": "Sci-Fi"
+                }
+            ],
+            "startDate": "1982-11-01T00:00:00Z"
+        }
+    ]
+}
