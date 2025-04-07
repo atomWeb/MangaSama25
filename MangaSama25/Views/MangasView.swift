@@ -8,22 +8,27 @@
 import SwiftUI
 
 struct MangasView: View {
-    
+
     @State var vm = MangasVM()
-    
+
     var body: some View {
         NavigationStack {
             List(vm.mangas) { manga in
-                Text(manga.title)
-                    .font(.headline)
+                NavigationLink(value: manga) {
+                    MangaRow(manga: manga)
+                }
             }
             .task {
                 if vm.mangas.isEmpty {
                     await vm.getMangas()
                 }
             }
+            .navigationTitle("MangaSama")
+            .navigationBarTitleDisplayMode(.inline)
+            .navigationDestination(for: MangaModel.Manga.self) { manga in
+                MangaDetailView(manga: manga)
+            }
         }
-        .navigationTitle("Mangas")
     }
 }
 

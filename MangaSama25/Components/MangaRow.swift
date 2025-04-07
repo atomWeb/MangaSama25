@@ -1,0 +1,42 @@
+//
+//  MangaRow.swift
+//  MangaSama25
+//
+//  Created by Cristian Jose Perez Guerra on 06/04/2025.
+//
+
+import SwiftUI
+
+struct MangaRow: View {
+    
+    /// Variable para el manga a mostrar
+    let manga: MangaModel.Manga
+    
+    var body: some View {
+        HStack {
+            MangaCover(url: manga.mainPicture, height: 120)
+            Spacer()
+            MangaScore(score: manga.score, size: .small)
+            VStack(alignment: .leading) {
+                Text(manga.title)
+                    .font(.title2)
+                    .lineLimit(2)
+                HStack {
+                    Image(systemName: "heart.circle")
+                        .foregroundStyle(.gray)
+                    Image(systemName: "person.circle")
+                        .foregroundStyle(.gray)
+                    Text("\(manga.status.description)")
+                        .font(.footnote)
+                }
+            }
+            .frame(maxWidth: .infinity, alignment: .leading)
+        }
+        .backgroundStyle(.thinMaterial)
+    }
+    
+}
+
+#Preview {
+    MangaRow(manga: .preview)
+}
