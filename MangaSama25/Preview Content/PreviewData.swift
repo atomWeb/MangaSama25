@@ -49,3 +49,20 @@ extension MangaModel.Manga {
         title: "Houseki no Kuni"
     )
 }
+
+extension [MangaModel.Author] {
+    static let preview = [
+        MangaModel.Author(
+            firstName: "Yuugo",
+            lastName: "Kobayashi",
+            role: "Story & Art",
+            id: UUID()
+        ),
+        MangaModel.Author(
+            firstName: "Naohiko",
+            lastName: "Ueno",
+            role: "Story",
+            id: UUID()
+        ),
+    ]
+}
