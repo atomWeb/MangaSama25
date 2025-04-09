@@ -35,7 +35,7 @@ struct MangaDetailView: View {
                     Link(destination: url) {
                         HStack {
                             
-                            Text("Bibliography")
+                            Text("Go to bibliography")
                             
                             Image(systemName: "network")
                                 .foregroundStyle(.blue)
@@ -48,8 +48,9 @@ struct MangaDetailView: View {
                 Form {
                     Section(header: Text("Manga Details")) {
                         AuthorRow(authors: manga.authors)
-                        LabeledContent("Status", value: manga.status.description)
                         LabeledContent("Start Date", value: manga.startDateStr)
+                        LabeledContent("Status", value: manga.status.description)
+                        LabeledContent("Volumes", value: manga.volumesText)
                         DisclosureGroup("Synopsis") {
                             Text(manga.synopsis ?? "No data found")
                                 .font(

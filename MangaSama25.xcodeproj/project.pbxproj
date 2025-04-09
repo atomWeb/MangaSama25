@@ -33,6 +33,7 @@
 		3171F1BF2DA461AC005EA00A /* MangaDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3171F1BE2DA461AC005EA00A /* MangaDetailView.swift */; };
 		3171F1C12DA474F8005EA00A /* AuthorRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3171F1C02DA474EE005EA00A /* AuthorRow.swift */; };
 		3171F1C32DA476C6005EA00A /* TagListItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3171F1C22DA476BF005EA00A /* TagListItem.swift */; };
+		319585062DA7142500340F0D /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 319585052DA7141E00340F0D /* LoadingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +64,7 @@
 		3171F1BE2DA461AC005EA00A /* MangaDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MangaDetailView.swift; sourceTree = "<group>"; };
 		3171F1C02DA474EE005EA00A /* AuthorRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthorRow.swift; sourceTree = "<group>"; };
 		3171F1C22DA476BF005EA00A /* TagListItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TagListItem.swift; sourceTree = "<group>"; };
+		319585052DA7141E00340F0D /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +134,7 @@
 			children = (
 				3105A5EA2DA3074100F71AF1 /* MangasView.swift */,
 				3171F1BE2DA461AC005EA00A /* MangaDetailView.swift */,
+				319585052DA7141E00340F0D /* LoadingView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -284,6 +287,7 @@
 				3152F91B2DA314EA0016AF1E /* PreviewRepository.swift in Sources */,
 				31291F7A2DA3898300C2701C /* MangaScore.swift in Sources */,
 				3105A5FF2DA3094600F71AF1 /* ApiDateFormatter.swift in Sources */,
+				319585062DA7142500340F0D /* LoadingView.swift in Sources */,
 				3171F1C32DA476C6005EA00A /* TagListItem.swift in Sources */,
 				3105A60A2DA30A8300F71AF1 /* NetworkInteractor.swift in Sources */,
 				3152F9282DA323BF0016AF1E /* MangaRow.swift in Sources */,

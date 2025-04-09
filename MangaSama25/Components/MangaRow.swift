@@ -9,6 +9,8 @@ import SwiftUI
 
 struct MangaRow: View {
     
+    @Environment(MangasVM.self) var vm
+    
     /// Variable para el manga a mostrar
     let manga: MangaModel.Manga
     
@@ -33,10 +35,14 @@ struct MangaRow: View {
             .frame(maxWidth: .infinity, alignment: .leading)
         }
         .backgroundStyle(.thinMaterial)
+        .onAppear {
+            vm.getNextPage(manga: manga)
+        }
     }
     
 }
 
 #Preview {
     MangaRow(manga: .preview)
+        .environment(MangasVM.preview)
 }

@@ -9,24 +9,36 @@ import SwiftUI
 
 struct MangasView: View {
 
-    @State var vm = MangasVM()
+    @Environment(MangasVM.self) var vm
 
     var body: some View {
-        NavigationStack {
-            List(vm.mangas) { manga in
-                NavigationLink(value: manga) {
-                    MangaRow(manga: manga)
+        
+        @Bindable var bvm = vm
+        
+        ZStack {
+            NavigationStack {
+                List(vm.mangas) { manga in
+                    NavigationLink(value: manga) {
+                        MangaRow(manga: manga)
+                    }
                 }
-            }
-            .task {
-                if vm.mangas.isEmpty {
-                    await vm.getMangas()
+                .task {
+                    if vm.mangas.isEmpty {
+                        await vm.getMangas()
+                    }
                 }
+                .alert("Error!", isPresented: $bvm.showAlert) {} message: {
+                    Text(vm.errorMsg)
+                }
+                .navigationTitle("MangaSama")
+                .navigationBarTitleDisplayMode(.inline)
+                .navigationDestination(for: MangaModel.Manga.self) { manga in
+                    MangaDetailView(manga: manga)
+                }
+                .animation(.easeInOut, value: vm.mangas)
             }
-            .navigationTitle("MangaSama")
-            .navigationBarTitleDisplayMode(.inline)
-            .navigationDestination(for: MangaModel.Manga.self) { manga in
-                MangaDetailView(manga: manga)
+            if (!vm.pageLoading) {
+                LoadingView()
             }
         }
     }
@@ -34,6 +46,7 @@ struct MangasView: View {
 
 #Preview {
     NavigationStack {
-        MangasView(vm: .preview)
+        MangasView()
+            .environment(MangasVM.preview)
     }
 }
