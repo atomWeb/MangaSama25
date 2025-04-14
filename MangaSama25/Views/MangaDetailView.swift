@@ -9,6 +9,8 @@ import SwiftUI
 
 struct MangaDetailView: View {
     
+    @Environment(FavoritesVM.self) var vmFav
+    
     /// Variable para el manga a mostrar
     let manga: MangaModel.Manga
     
@@ -43,6 +45,28 @@ struct MangaDetailView: View {
                         .foregroundStyle(.blue)
                         
                     }
+                }
+                
+                HStack(spacing: 16) {
+                    
+                    ActionButton(
+                        action: {
+                            vmFav.saveFavorite(manga: manga)
+                        },
+                        systemImage: vmFav.isFavorite(manga: manga) ? "heart.fill" : "heart",
+                        text: "Favorite",
+                        foreColor: .yellow
+                    )
+
+                    ActionButton(
+                        action: {
+                            //
+                        },
+                        systemImage: vmFav.isFavorite(manga: manga) ? "minus.circle.fill" : "plus.circle.fill",
+                        text: "It's mine",
+                        foreColor: .orange
+                    )
+
                 }
                 
                 Form {
@@ -80,4 +104,5 @@ struct MangaDetailView: View {
 
 #Preview {
     MangaDetailView(manga: .preview)
+        .environment(FavoritesVM.preview)
 }

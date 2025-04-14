@@ -48,5 +48,6 @@ struct MangasView: View {
     NavigationStack {
         MangasView()
             .environment(MangasVM.preview)
+            .environment(FavoritesVM.preview)
     }
 }

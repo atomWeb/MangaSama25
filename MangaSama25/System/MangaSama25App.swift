@@ -11,11 +11,13 @@ import SwiftUI
 struct MangaSama25App: App {
     
     @State var vm = MangasVM()
+    @State var fvm = FavoritesVM()
     
     var body: some Scene {
         WindowGroup {
-            MangasView()
+            HomeView()
                 .environment(vm)
+                .environment(fvm)
         }
     }
 }

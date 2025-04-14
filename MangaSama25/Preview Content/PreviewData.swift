@@ -11,6 +11,10 @@ extension MangasVM {
     static let preview = MangasVM(apiDataRepository: PreviewRepository())
 }
 
+extension FavoritesVM {
+    static let preview = FavoritesVM(favoritesDataRepo: PreviewFavoritesRepository())
+}
+
 /// Manga de ejemplo para previsualización.
 extension MangaModel.Manga {
     static let preview = MangaModel.Manga(

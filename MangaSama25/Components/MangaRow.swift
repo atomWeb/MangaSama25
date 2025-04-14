@@ -10,6 +10,7 @@ import SwiftUI
 struct MangaRow: View {
     
     @Environment(MangasVM.self) var vm
+    @Environment(FavoritesVM.self) var fvm
     
     /// Variable para el manga a mostrar
     let manga: MangaModel.Manga
@@ -25,7 +26,7 @@ struct MangaRow: View {
                     .lineLimit(2)
                 HStack {
                     Image(systemName: "heart.circle")
-                        .foregroundStyle(.gray)
+                        .foregroundStyle(fvm.isFavorite(manga: manga) ? .red : .gray)
                     Image(systemName: "person.circle")
                         .foregroundStyle(.gray)
                     Text("\(manga.status.description)")
@@ -45,4 +46,5 @@ struct MangaRow: View {
 #Preview {
     MangaRow(manga: .preview)
         .environment(MangasVM.preview)
+        .environment(FavoritesVM.preview)
 }
