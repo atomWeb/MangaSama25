@@ -63,7 +63,7 @@ struct MangaDetailView: View {
                             //
                         },
                         systemImage: vmFav.isFavorite(manga: manga) ? "minus.circle.fill" : "plus.circle.fill",
-                        text: "It's mine",
+                        text: "I got it",
                         foreColor: .orange
                     )
 

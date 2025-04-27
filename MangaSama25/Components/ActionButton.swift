@@ -12,6 +12,7 @@ struct ActionButton: View {
     let systemImage: String
     let text: String
     var foreColor: Color = .yellow
+    var width: CGFloat = 110 // Ancho fijo por defecto
     
     var body: some View {
         Button {
@@ -21,6 +22,7 @@ struct ActionButton: View {
                 Image(systemName: systemImage).foregroundStyle(foreColor)
                 Text(text)
             }
+            .frame(width: width)
         }
         .buttonStyle(.borderedProminent)
         .controlSize(.regular)
@@ -28,5 +30,5 @@ struct ActionButton: View {
 }
 
 #Preview {
-    ActionButton(action: {}, systemImage: "heart.fill", text: "Add to Favorites")
+    ActionButton(action: {}, systemImage: "heart.fill", text: "Favorite")
 }

@@ -16,6 +16,8 @@ struct MangaCover: View {
     ///
     /// El ancho se ajustará automáticamente manteniendo la proporción de aspecto.
     let height: CGFloat
+    
+    let radius: CGFloat
     /// ViewModel que maneja la lógica de carga de la imagen.
     @State private var cvm = MangaCoverVM()
     
@@ -24,9 +26,10 @@ struct MangaCover: View {
     /// - Parameters:
     ///   - url: URL opcional que apunta a la imagen de la portada.
     ///   - height: Altura deseada para la vista. Por defecto es 300 puntos.
-    init(url: URL?, height: CGFloat = 300) {
+    init(url: URL?, height: CGFloat = 300, radius: CGFloat = 10) {
         self.url = url
         self.height = height
+        self.radius = radius
     }
     
     /// El cuerpo de la vista que representa la portada.
@@ -40,7 +43,7 @@ struct MangaCover: View {
                 .resizable()
                 .scaledToFit()
                 .frame(height: height)
-                .clipShape(RoundedRectangle(cornerRadius: 10))
+                .clipShape(RoundedRectangle(cornerRadius: radius))
         } else {
             Image(systemName: "book.pages.fill")
                 .resizable()
